@@ -5,3 +5,5 @@ wykorzystyjącej rozpoznwanie gestów dłoni.
 
 
 [Instrukcja](readmeAssets/TestObsidianImp.md)
+
+![readmeAssets/architekturaMT.png]
