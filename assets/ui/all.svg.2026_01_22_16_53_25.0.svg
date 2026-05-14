@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="all.svg.2026_01_22_16_39_28.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.28"
+     inkscape:cx="411.32813"
+     inkscape:cy="394.14063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Warstwa 2" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#37c837;fill-opacity:1;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 25.352939,22.654738 25.383719,43.566484 43.377891,33.07221 Z"
+       id="path857"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\run_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.884158,23.175362 -6.260088,9.929237 6.341421,10.349947 11.742988,0.116551 6.675055,-10.346096 -6.941722,-10.039129 z"
+       id="path857-9"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\stop_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="rect2242"
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 88.714716,22.021919 v 20.663854 h 9.593726 V 33.63103 h 4.324798 v 9.172567 h 9.59373 V 22.139742 h -9.59373 v 8.644949 h -4.324798 v -8.762772 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\resume_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.931421,54.974198 24.962201,75.885944 42.956373,65.39167 Z"
+       id="path857-1"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\run_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.46264,55.073114 -6.260088,9.929237 6.341421,10.349947 11.742988,0.116551 6.675055,-10.346096 -6.941722,-10.039129 z"
+       id="path857-9-1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\stop_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="rect2242-9"
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 88.714906,53.91967 v 20.663854 h 9.593726 v -9.054743 h 4.324798 v 9.172567 h 9.59374 V 54.037493 h -9.59374 v 8.644949 H 98.308632 V 53.91967 Z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\resume_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="rect5007"
+       style="fill:#a73232;fill-opacity:1;fill-rule:evenodd;stroke:#fefefe;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 143.3197,26.799494 a 9.4851315,2.6730674 0 0 0 -9.47565,2.590972 h -0.0202 v 12.403725 h 0.0417 a 9.4502379,2.6730674 0 0 0 9.40895,2.437349 9.4502379,2.6730674 0 0 0 9.40861,-2.437349 h 0.11015 V 29.570694 a 9.4851315,2.6730674 0 0 0 0.0113,-0.09788 9.4851315,2.6730674 0 0 0 -9.48489,-2.673325 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="fill:#7d2525;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path6259"
+       cx="143.30016"
+       cy="29.438763"
+       rx="9.4872503"
+       ry="2.6730671"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path5111"
+       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#fefefe;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 143.4122,17.861266 a 6.9093923,4.2345052 0 0 0 -6.90922,4.23448 6.9093923,4.2345052 0 0 0 0.003,0.04235 h -0.0192 v 6.320177 h 0.063 a 1.846751,1.3061659 0 0 0 -0.007,0.105147 1.846751,1.3061659 0 0 0 1.84664,1.306152 1.846751,1.3061659 0 0 0 1.82364,-1.111339 V 24.21065 a 3.2103169,2.9072723 0 0 1 -0.0287,-0.37473 3.2103169,2.9072723 0 0 1 3.21057,-2.907299 3.2103169,2.9072723 0 0 1 3.21028,2.907299 3.2103169,2.9072723 0 0 1 -0.006,0.14224 v 1.874527 a 6.9093923,4.2345052 0 0 0 3.1e-4,0 v 2.80186 a 1.846751,1.3061659 0 0 0 -3.1e-4,0.0038 v 0.28331 a 1.846751,1.3061659 0 0 0 1.83529,1.159824 1.846751,1.3061659 0 0 0 1.84569,-1.285123 h 0.0463 v -6.844743 h -0.008 a 6.9093923,4.2345052 0 0 0 -6.90607,-4.110348 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path6399"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 143.41758,34.46117 a 3.2452035,2.7463631 0 0 0 -3.24532,2.746494 3.2452035,2.7463631 0 0 0 1.83253,2.472192 v 1.009466 c 0,0.758259 0.59744,1.368653 1.33924,1.368653 0.74181,0 1.33891,-0.610394 1.33891,-1.368653 v -0.954669 a 3.2452035,2.7463631 0 0 0 1.97963,-2.526989 3.2452035,2.7463631 0 0 0 -3.24499,-2.746494 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="rect5007-3"
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 177.98912,26.821593 a 9.4851315,2.6730674 0 0 0 -9.47566,2.590972 h -0.0202 v 12.403724 h 0.0417 a 9.4502379,2.6730674 0 0 0 9.40894,2.43735 9.4502379,2.6730674 0 0 0 9.40861,-2.43735 h 0.11015 V 29.592792 a 9.4851315,2.6730674 0 0 0 0.0113,-0.09787 9.4851315,2.6730674 0 0 0 -9.48488,-2.673325 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="fill:#00aa44;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path6259-9"
+       cx="177.96956"
+       cy="29.460863"
+       rx="9.4872503"
+       ry="2.6730671"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path5111-3"
+       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 178.17934,14.137359 a 6.5644881,4.2345051 0 0 0 -6.56454,4.23456 6.5644881,4.2345051 0 0 0 0.003,0.04213 h -0.0181 v 6.320324 h 0.0598 a 1.7545646,1.3061659 0 0 0 -0.007,0.105159 1.7545646,1.3061659 0 0 0 1.75454,1.305939 1.7545646,1.3061659 0 0 0 1.7323,-1.111141 v -4.547506 a 3.0500638,2.9072723 0 0 1 -0.027,-0.375025 3.0500638,2.9072723 0 0 1 3.05033,-2.907084 3.0500638,2.9072723 0 0 1 3.05,2.907084 3.0500638,2.9072723 0 0 1 -0.006,0.142535 v 1.874494 a 6.5644881,4.2345051 0 0 0 3.5e-4,0 v 1.36517 1.436438 a 1.7545646,1.3061659 0 0 0 -3.5e-4,0.0038 v 0.283487 a 1.7545646,1.3061659 0 0 0 3.5e-4,0.0013 v 2.280562 c 0,0.756399 0.6578,1.365486 1.47471,1.365486 h 0.58291 c 0.8169,0 1.47471,-0.609087 1.47471,-1.365486 v -2.40726 h 0.009 v -6.844537 h -0.008 a 6.5644881,4.2345051 0 0 0 -6.56146,-4.110396 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path6399-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 178.087,34.483269 a 3.2452035,2.7463631 0 0 0 -3.24532,2.746494 3.2452035,2.7463631 0 0 0 1.83252,2.472192 v 1.009466 c 0,0.758259 0.59744,1.368653 1.33925,1.368653 0.74181,0 1.33891,-0.610394 1.33891,-1.368653 v -0.954669 a 3.2452035,2.7463631 0 0 0 1.97963,-2.526989 3.2452035,2.7463631 0 0 0 -3.24499,-2.746494 z"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="fill:#001207;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.99991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path10962"
+       cx="173.54732"
+       cy="29.37034"
+       rx="2.7392306"
+       ry="1.1470102"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\lock_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#878583;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699"
+       width="17.860922"
+       height="14.264602"
+       x="136.24353"
+       y="56.627552"
+       ry="1.5377153"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#878583;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-6"
+       width="5.1123648"
+       height="5.269002"
+       x="146.68692"
+       y="61.947468"
+       ry="0.56799525"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1"
+       width="2.264971"
+       height="8.0010757"
+       x="154.85422"
+       y="60.184597"
+       ry="0.86251122"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-6"
+       width="5.6273794"
+       height="0.22767207"
+       x="138.25194"
+       y="-64.892067"
+       ry="0.024542909"
+       transform="scale(1,-1)"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-6-4"
+       width="5.6273794"
+       height="0.22767207"
+       x="138.20241"
+       y="-61.898136"
+       ry="0.024542909"
+       transform="scale(1,-1)"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-6-3"
+       width="5.6273794"
+       height="0.22767207"
+       x="138.33968"
+       y="-67.647743"
+       ry="0.024542909"
+       transform="scale(1,-1)"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#878583;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-3"
+       width="1.9908487"
+       height="7.6107798"
+       x="133.44376"
+       y="60.907078"
+       ry="0.82043749"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#878583;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-9"
+       width="6.039247"
+       height="1.9514825"
+       x="126.54798"
+       y="63.639149"
+       ry="0.21036863"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#878583;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-9-3"
+       width="13.072124"
+       height="1.6262355"
+       x="138.67029"
+       y="71.705284"
+       ry="0.17530721"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#878583;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-9-3-5"
+       width="17.343216"
+       height="2.1466308"
+       x="136.63181"
+       y="74.177155"
+       ry="0.2314055"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_on.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-62"
+       width="16.467192"
+       height="13.076821"
+       x="171.92149"
+       y="57.281429"
+       ry="1.4096733"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-6-1"
+       width="4.7134352"
+       height="4.8302641"
+       x="181.54996"
+       y="62.158363"
+       ry="0.52069956"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-5"
+       width="2.0882301"
+       height="7.3348446"
+       x="189.07994"
+       y="60.542286"
+       ry="0.79069191"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-6-6"
+       width="5.188262"
+       height="0.20871434"
+       x="173.77318"
+       y="-64.85778"
+       ry="0.022499278"
+       transform="scale(1,-1)"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-6-4-1"
+       width="5.188262"
+       height="0.20871434"
+       x="173.72751"
+       y="-62.11314"
+       ry="0.022499278"
+       transform="scale(1,-1)"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-6-3-8"
+       width="5.188262"
+       height="0.20871434"
+       x="173.85406"
+       y="-67.383995"
+       ry="0.022499278"
+       transform="scale(1,-1)"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-3-9"
+       width="1.8354981"
+       height="6.9770474"
+       x="169.34019"
+       y="61.204605"
+       ry="0.75212157"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-9-1"
+       width="5.5679903"
+       height="1.788987"
+       x="162.98251"
+       y="63.709183"
+       ry="0.19285172"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-9-3-3"
+       width="12.052075"
+       height="1.4908226"
+       x="174.15887"
+       y="71.103676"
+       ry="0.16070978"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect11699-1-9-3-5-0"
+       width="15.989884"
+       height="1.9678857"
+       x="172.27946"
+       y="73.369713"
+       ry="0.21213689"
+       inkscape:export-filename="P:\INZ\ProjectPD\assets\ui\motor_off.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#aaccff;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect16702-5"
+       width="79.319275"
+       height="21.171686"
+       x="116.96612"
+       y="90.725151" />
+    <rect
+       style="fill:#0066ff;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect16702-5-2"
+       width="79.319275"
+       height="21.171686"
+       x="117.22593"
+       y="116.77866" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="156.12834"
+       y="107.71508"
+       id="text4052"><tspan
+         sodipodi:role="line"
+         id="tspan4050"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="156.12834"
+         y="107.71508">MANUAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="156.45651"
+       y="133.21896"
+       id="text2992"><tspan
+         sodipodi:role="line"
+         id="tspan2990"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';stroke:#000000;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="156.45651"
+         y="133.21896">AUTO</tspan></text>
+  </g>
+</svg>
