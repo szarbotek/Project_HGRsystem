@@ -4,4 +4,4 @@ Repozytorium przedstawia zestaw plików dla instancji odbiornika i serwera aplik
 wykorzystyjącej rozpoznwanie gestów dłoni.
 
 
-
+[Instrukcja](readmeAssets/TestObsidianImp.md)
