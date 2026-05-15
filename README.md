@@ -19,9 +19,9 @@ Opis funkcjonalności i możliwości aplikacji główna idea działania.
 
 ![[readmeAssets/speed_upx2.mov]]
 
-![[readmeAssets/RobotStudio 2-16_17.mp4]]
+![[RobotStudio_2_16_17.mp4]]
 
-![[readmeAssets/RobotStudio 2-16_12.mp4]]
+![[RobotStudio_2_16_12.mp4]]
 Aplikacja końcowa pozwalała użytkownikowi  na działanie w:
 
 ***Interfejsie***
@@ -41,7 +41,7 @@ Wywołanie funkcji jest wynikiem zakończenia składania kolejki zapytania ( sek
 [grafika sposobu działania kompilatora wykonawczego]
 
 Detekcja gestów odbywa się na podstawie wytrenowanego na potrzeby badania modelu perceptronu wielowarstwowego ( 3 warstwy ukryte, po 128, 128, 64 neurony) u umożliwiającego klasyfikację 13 unikalnych etykiet klas gestów.
-![[readmeAssets/Pasted image 20260514235838.png]]
+![[Pasted_image_20260514235838.png]]
 *rys. Próbka 13 klas gestów*.
 
 # 3. Architektura
@@ -62,14 +62,14 @@ Wykorzystane narzędzia programistyczne
 - numpy, seaborn, matplotlib, 
 
 
-![[readmeAssets/Pasted image 20260515000206.png]]
+![[Pasted_image_20260515000206.png]]
 *rys. stanowisko projektowe*
 
 Główną komputer odpowiadał za przetwarzanie obrazu z kamery, jego transmisję oraz operowanie GUI. Serwer miał za zadanie wywoływać żądania sterujące poprzez pakiet ABB PC SDK. Kontroler robota posiadał zestaw przygotowanych programów i umożliwiał dodatkowy podgląd pracy robota dzięki Flexpendat'owi. 
 
 Programowo każdej warstwie odpowiadał oddzielny wątek wykonawczy. 
 
-![[readmeAssets/Pasted image 20260515001322.png]]
+![[Pasted_image_20260515001322.png]]
 *rys. architektura softwerowa aplikacji* 
 
 Zdjęcia odczytywane z kamery ZED zostają prze konwertowane na chmurę 21 punktów charakterystycznych poprzez model Mediapipe, kolejno punkty zostają przetransformowane na etykietę klasy próbkowanej co okres 50ms. Wy wyniku próbkowania dyskretny model przebiegu czasowego gestów w czasie pozwala na określenie kombinacji gestów sterujących.  W przypadku aktywacji funkcji na serwer zostaje przesłany komunikat Command-Tag: nieokreślający komendę i zestaw argumentów. W końcowym etapie zdekodowana wiadomość na serwerze uruchamia funkcję z pakietu ABB SKD opowiadające za sterowanie oraz informacje statusowe. 
@@ -80,9 +80,9 @@ W badaniu napotkałem szereg pomniejszych problemów które wymagały rozwiązan
 ### (a) Przygotowanie zbioru danych testowych do modelu
 
 W projekcie wykorzystana została otwarto źródłowa baza zdjęć z opisanymi etykietami HaGRIDv2 (https://github.com/hukenovs/hagrid/blob/master/README.md). Z pośród bazy zostały wytypowane etykiety 13 gestów z próbą 2000 zdjęć na klasę. Problematyko pojawiła się w próbkach, zdjęcia posiadają różne skale,  pozycje dłoni na zdjęciu, dodatkowe niewłaściwie dłonie (ręka trzymająca telefon do zdjęcia ). 
-![[readmeAssets/Pasted image 20260515010834.png|455]]
+![[Pasted_image_20260515010834.png|455]]
 Ponieważ klasyfikator gestów ma cechować się z założenia jak najwyższa niezawodnością korelacja miedzy danymi z populacji klasy musi mieć zachowana jak najwyższa korelację. Dlatego rozwiązanie wymagało zbudowania 2 warstw: normalizującej i filtrującej pozwalającej eliminować gesty o niższej korelacji. 
-![[readmeAssets/Pasted image 20260515003235.png]]
+![[Pasted_image_20260515003235.png]]
 *rys. Końcowa korelacja danych przedstawiona na wykresie T-SNE*
 
 ### (b) Aktywacja przeskoków miedzy gestami
@@ -90,11 +90,11 @@ Ponieważ klasyfikator gestów ma cechować się z założenia jak najwyższa ni
 Do reprezentacji gestów w czasie zastosowałem odwzorowanie kolorystyczne,
 każdemu gestowi przypadał jeden unikalny kolor.  Sterowanie odbywa się poprzez miany gestów, zwane przeskokami.  
 
-![[readmeAssets/Pasted image 20260515003524.png|455]]
+![[Pasted_image_20260515003524.png|455]]
 
 Przy zmianach gestów bądź podczas utrzymywania składnika pojawiają się rożne klasyfikacje gestów, co może spowodować uruchomieniem niewłaściwej funkcji aktywacyjnej, co jest niedopuszczalne ze względów bezpieczeństwa pracy z robotem. Dlatego w założeniu przebieg dyskretny musiał zostać przekształcony do postaci bezpiecznej poprzez operację miksowania, która ujednolica etykiety w czasie. Problem został rozwiązany poprzez zastosowanie deterministycznego automatu stanów. Jego model iteracyjny pozwalał na wykonanie miksowania w średnio 3 iteracje. Model zakłada analizę 7 najmłodszych próbek i aktywowany jest w chwili wykrycia zmiany gestu. 
 
-![[readmeAssets/Pasted image 20260515004951.png|443]]
+![[Pasted_image_20260515004951.png|443]]
 *rys. przykładowy porces iteracyjny funkcji miksowania*
 
 Zastosowanie modelu pozwala:
