@@ -1,16 +1,6 @@
 ___
 ### *System sterowania robotem przemysłowym za pomocą ludzkich gestów*
 
-![](readmefile/Pasted_image_20260515000206.png)
-[![Demo RobotStudio](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![Demo RobotStudio](https://img.youtube.com/vi/6zZcamvSbH8/0.jpg)](https://youtu.be/6zZcamvSbH8)
-
-
-
-
-
-
 # 1. Cel i idea
 
 Głównym założeniem projektu było zintegrowanie systemu sterowania  za pomocą gestów dłoni dla roboto przemysłowego firmy ABB IRB 120.
@@ -26,7 +16,7 @@ Praca została podzielona na etapy:
 
 Opis funkcjonalności i możliwości aplikacji główna idea działania.
 
-![[speed_upx2.mov]]
+[![mov1](https://img.youtube.com/vi/6zZcamvSbH8/0.jpg)](https://youtu.be/6zZcamvSbH8)
 
 ![[RobotStudio_2_16_17.mp4]]
 
@@ -70,8 +60,7 @@ Wykorzystane narzędzia programistyczne
 - Tensorflow
 - numpy, seaborn, matplotlib, 
 
-
-![[Pasted_image_20260515000206.png]]
+![](readmefile/Pasted_image_20260515000206.png)
 *rys. stanowisko projektowe*
 
 Główną komputer odpowiadał za przetwarzanie obrazu z kamery, jego transmisję oraz operowanie GUI. Serwer miał za zadanie wywoływać żądania sterujące poprzez pakiet ABB PC SDK. Kontroler robota posiadał zestaw przygotowanych programów i umożliwiał dodatkowy podgląd pracy robota dzięki Flexpendat'owi. 
