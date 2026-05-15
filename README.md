@@ -17,7 +17,7 @@ Praca została podzielona na etapy:
 
 Opis funkcjonalności i możliwości aplikacji główna idea działania.
 
-![[readmefile/readmeAssets/speed_upx2.mov]]
+![[speed_upx2.mov]]
 
 ![[RobotStudio_2_16_17.mp4]]
 
@@ -41,7 +41,7 @@ Wywołanie funkcji jest wynikiem zakończenia składania kolejki zapytania ( sek
 [grafika sposobu działania kompilatora wykonawczego]
 
 Detekcja gestów odbywa się na podstawie wytrenowanego na potrzeby badania modelu perceptronu wielowarstwowego ( 3 warstwy ukryte, po 128, 128, 64 neurony) u umożliwiającego klasyfikację 13 unikalnych etykiet klas gestów.
-![[readmefile/Pasted_image_20260514235838.png]]
+![[Pasted_image_20260514235838.png]]
 *rys. Próbka 13 klas gestów*.
 
 # 3. Architektura
@@ -80,7 +80,7 @@ W badaniu napotkałem szereg pomniejszych problemów które wymagały rozwiązan
 ### (a) Przygotowanie zbioru danych testowych do modelu
 
 W projekcie wykorzystana została otwarto źródłowa baza zdjęć z opisanymi etykietami HaGRIDv2 (https://github.com/hukenovs/hagrid/blob/master/README.md). Z pośród bazy zostały wytypowane etykiety 13 gestów z próbą 2000 zdjęć na klasę. Problematyko pojawiła się w próbkach, zdjęcia posiadają różne skale,  pozycje dłoni na zdjęciu, dodatkowe niewłaściwie dłonie (ręka trzymająca telefon do zdjęcia ). 
-![[Pasted_image_20260515010834.png|455]]
+![[Pasted_image_20260515010834.png|697]]
 Ponieważ klasyfikator gestów ma cechować się z założenia jak najwyższa niezawodnością korelacja miedzy danymi z populacji klasy musi mieć zachowana jak najwyższa korelację. Dlatego rozwiązanie wymagało zbudowania 2 warstw: normalizującej i filtrującej pozwalającej eliminować gesty o niższej korelacji. 
 ![[Pasted_image_20260515003235.png]]
 *rys. Końcowa korelacja danych przedstawiona na wykresie T-SNE*
@@ -90,11 +90,11 @@ Ponieważ klasyfikator gestów ma cechować się z założenia jak najwyższa ni
 Do reprezentacji gestów w czasie zastosowałem odwzorowanie kolorystyczne,
 każdemu gestowi przypadał jeden unikalny kolor.  Sterowanie odbywa się poprzez miany gestów, zwane przeskokami.  
 
-![[Pasted_image_20260515003524.png|455]]
+![[Pasted_image_20260515003524.png|697]]
 
 Przy zmianach gestów bądź podczas utrzymywania składnika pojawiają się rożne klasyfikacje gestów, co może spowodować uruchomieniem niewłaściwej funkcji aktywacyjnej, co jest niedopuszczalne ze względów bezpieczeństwa pracy z robotem. Dlatego w założeniu przebieg dyskretny musiał zostać przekształcony do postaci bezpiecznej poprzez operację miksowania, która ujednolica etykiety w czasie. Problem został rozwiązany poprzez zastosowanie deterministycznego automatu stanów. Jego model iteracyjny pozwalał na wykonanie miksowania w średnio 3 iteracje. Model zakłada analizę 7 najmłodszych próbek i aktywowany jest w chwili wykrycia zmiany gestu. 
 
-![[readmefile/Pasted_image_20260515004951.png]]
+![[readmefile/Pasted_image_20260515004951.png|697]]
 *rys. przykładowy porces iteracyjny funkcji miksowania*
 
 Zastosowanie modelu pozwala:
