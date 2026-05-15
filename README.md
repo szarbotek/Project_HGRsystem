@@ -44,11 +44,12 @@ Implementacja systemu sterowania wykorzystała aktywację funkcji poprzez przygo
 - 🔵 **Dłoń lewa** — główna (niebieska) — wybór grupy poleceń
 - 🟡 **Dłoń prawa** — wykonawcza (żółta) — wykonanie jednej z **28 funkcji końcowych**
 
-[grafika wprowadzania gestów]
+![help box](readmefile/help_box.gif)
+
 
 Wywołanie funkcji jest wynikiem zakończenia składania kolejki zapytania (sekcja różowa GUI). Gesty w systemie przekładane są na zestaw komend widocznych w kolejce zapytania oraz komendy ukryte wykonujące się w tle działania kolejki. Każdorazowa zmiana gestu otwiera proces dekodowania etykiety gestu i uruchomienia kompilatora wykonawczego. Możliwa jest zmiana poprzedniego stanu kolejki bądź powrót do wyższego stopnia polecenia.
 
-[grafika sposobu działania kompilatora wykonawczego]
+![build queue](readmefile/gui001.gif)
 
 Detekcja gestów odbywa się na podstawie wytrenowanego modelu perceptronu wielowarstwowego (**3 warstwy ukryte**: 128, 128, 64 neurony) umożliwiającego klasyfikację 13 unikalnych etykiet klas gestów.
 
