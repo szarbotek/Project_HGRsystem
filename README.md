@@ -49,7 +49,7 @@ Implementacja systemu sterowania wykorzystała aktywację funkcji poprzez przygo
 
 Wywołanie funkcji jest wynikiem zakończenia składania kolejki zapytania (sekcja różowa GUI). Gesty w systemie przekładane są na zestaw komend widocznych w kolejce zapytania oraz komendy ukryte wykonujące się w tle działania kolejki. Każdorazowa zmiana gestu otwiera proces dekodowania etykiety gestu i uruchomienia kompilatora wykonawczego. Możliwa jest zmiana poprzedniego stanu kolejki bądź powrót do wyższego stopnia polecenia.
 
-<video src="readmefile/gui001.webm" autoplay loop muted playsinline></video>
+![help box](readmefile/gui001_small2.gif)
 
 Detekcja gestów odbywa się na podstawie wytrenowanego modelu perceptronu wielowarstwowego (**3 warstwy ukryte**: 128, 128, 64 neurony) umożliwiającego klasyfikację 13 unikalnych etykiet klas gestów.
 
