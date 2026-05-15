@@ -2,6 +2,14 @@ ___
 ### *System sterowania robotem przemysłowym za pomocą ludzkich gestów*
 
 ![](readmefile/Pasted_image_20260515000206.png)
+[![Demo RobotStudio](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[![Demo RobotStudio](https://img.youtube.com/vi/6zZcamvSbH8/0.jpg)](https://youtu.be/6zZcamvSbH8)
+
+
+
+
+
 
 # 1. Cel i idea
 
