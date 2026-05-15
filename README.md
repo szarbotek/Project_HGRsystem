@@ -17,7 +17,7 @@ Praca została podzielona na etapy:
 
 Opis funkcjonalności i możliwości aplikacji główna idea działania.
 
-![[readmeAssets/speed_upx2.mov]]
+![[readmefile/readmeAssets/speed_upx2.mov]]
 
 ![[RobotStudio_2_16_17.mp4]]
 
@@ -41,7 +41,7 @@ Wywołanie funkcji jest wynikiem zakończenia składania kolejki zapytania ( sek
 [grafika sposobu działania kompilatora wykonawczego]
 
 Detekcja gestów odbywa się na podstawie wytrenowanego na potrzeby badania modelu perceptronu wielowarstwowego ( 3 warstwy ukryte, po 128, 128, 64 neurony) u umożliwiającego klasyfikację 13 unikalnych etykiet klas gestów.
-![[Pasted_image_20260514235838.png]]
+![[readmefile/Pasted_image_20260514235838.png]]
 *rys. Próbka 13 klas gestów*.
 
 # 3. Architektura
@@ -94,7 +94,7 @@ każdemu gestowi przypadał jeden unikalny kolor.  Sterowanie odbywa się poprze
 
 Przy zmianach gestów bądź podczas utrzymywania składnika pojawiają się rożne klasyfikacje gestów, co może spowodować uruchomieniem niewłaściwej funkcji aktywacyjnej, co jest niedopuszczalne ze względów bezpieczeństwa pracy z robotem. Dlatego w założeniu przebieg dyskretny musiał zostać przekształcony do postaci bezpiecznej poprzez operację miksowania, która ujednolica etykiety w czasie. Problem został rozwiązany poprzez zastosowanie deterministycznego automatu stanów. Jego model iteracyjny pozwalał na wykonanie miksowania w średnio 3 iteracje. Model zakłada analizę 7 najmłodszych próbek i aktywowany jest w chwili wykrycia zmiany gestu. 
 
-![[Pasted_image_20260515004951.png|443]]
+![[readmefile/Pasted_image_20260515004951.png]]
 *rys. przykładowy porces iteracyjny funkcji miksowania*
 
 Zastosowanie modelu pozwala:
