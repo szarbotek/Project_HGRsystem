@@ -1,6 +1,7 @@
 ___
 ### *System sterowania robotem przemysłowym za pomocą ludzkich gestów*
 
+![](readmefile/Pasted_image_20260515000206.png)
 
 # 1. Cel i idea
 
